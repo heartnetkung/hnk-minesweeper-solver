@@ -1,0 +1,26 @@
+{
+  "name": "hnk-minesweeper-solver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/jasmine-node/lib/jasmine-node/cli.js ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heartnetkung/hnk-minesweeper-solver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heartnetkung/hnk-minesweeper-solver/issues"
+  },
+  "homepage": "https://github.com/heartnetkung/hnk-minesweeper-solver#readme",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  },
+  "dependencies": {
+    "javascript-lp-solver": "^0.4.3",
+    "lodash": "^4.15.0"
+  }
+}
